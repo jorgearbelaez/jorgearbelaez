@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
   <h1 align="center"> Hi 👋! I'm Jorge Arbeláez <h1 />
-  <h3 align="center">A passionate <strong>Full Satck Web Developer<strong /><h3 />
+  <h3 align="center">A passionate <strong>Full Stack Web Developer<strong /><h3 />
 <div />
 <div id="badges" align="center" />
     <a href="https://www.linkedin.com/in/jorge-arbelaez">
