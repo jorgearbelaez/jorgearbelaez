@@ -36,7 +36,18 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<!--
+      
+ ---
+
+ ### My stats :
+      
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgearbelaez&theme=Javascript&hide_border=true)](https://git.io/streak-stats)
+      
+
+      
+
+      
+ 
 <!--
 **jorgearbelaez/jorgearbelaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
