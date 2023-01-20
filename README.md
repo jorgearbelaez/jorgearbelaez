@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
   <h1 align="center"> Hi 👋, I'm Jorge Arbeláez <h1 />
-  <h3 align="center">A passionate Full Satck Web Developer<h3 />
+  <h3 align="center">A passionate <strong>Full Satck Web Developer<strong /><h3 />
 
 <div />
 
@@ -11,24 +11,24 @@
     <a href="https://www.linkedin.com/in/jorge-arbelaez">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin Badge"
     <a />
-    <a href="mailto:martinflorestorres21@gmail.com">
+    <a href="mailto:jorge.a.arbelaez.c@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"
     <a />  
 
 <div />
     
     
-### 🛠️ Mis Lenguajes y Herramientas:
+### 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
