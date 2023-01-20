@@ -10,7 +10,10 @@
 <div id="badges" align="center" />
     <a href="https://www.linkedin.com/in/jorge-arbelaez">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin Badge"
-     <a />
+    <a />
+    <a href="mailto:martinflorestorres21@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"
+    <a />  
 
 <div />
     
