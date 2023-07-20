@@ -44,6 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![AWS](https://img.shields.io/badge/-Amazon-333333?style=flat&logo=amazon)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)
 
       
  ---
