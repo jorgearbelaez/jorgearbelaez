@@ -2,17 +2,17 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
-  <h1 align="center"> Hi 👋! I'm Jorge Arbeláez <h1 />
-  <h3 align="center">A passionate <strong>Full Stack Web Developer<strong /><h3 />
-<div />
-<div id="badges" align="center" />
+  <h1 align="center"> Hi 👋! I'm Jorge Arbeláez </h1>
+  <h3 align="center">A passionate <strong>Full Stack Web Developer</strong></h3>
+</div>
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/jorge-arbelaez">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin Badge"
-    <a />
+    </a>
     <a href="mailto:jorge.arbelaez88210@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"
-    <a />  
-<div />
+    </a>  
+</div>
     
 ---    
 ### 🛠️ Languages and Tools:
