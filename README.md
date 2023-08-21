@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/jorge-arbelaez">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin Badge" />
     </a>
-    <a href="mailto:jorge.arbelaez88210@gmail.com">
+    <a href="mailto:jorge.a.arbelaez.c@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge" />
     </a>  
 </div>
